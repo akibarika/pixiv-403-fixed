@@ -1,5 +1,10 @@
 <?php
+/**
+	Fixed the 403 error when people are
+	sharing the link of images to others
 
+	last update: 29/06/2014
+**/
 	$address = $_GET['add'];
 	$pixiv = 'pixiv';
 	if (strpos($address,$pixiv) === false){
