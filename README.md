@@ -1,4 +1,4 @@
-pixiv-403-fixed
+Pixiv 403 Fixed
 ===============
 
 Fixed the 403 error when you are sharing illustrations to others.
